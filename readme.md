@@ -1,2 +1,5 @@
 Nome dos alunos: Thais Duarte e Serenna Tavares
 Descrição da atividade: A atividade consiste na criação de uma tela de login estática utilizando Bootstrap, aplicando estruturação em HTML e estilização com classes prontas. A interface é responsiva, organizada com o sistema de grid e contém campos de e-mail, senha, botão de login e link auxiliar. O foco foi criar um layout limpo, intuitivo e bem estruturado, seguindo as boas práticas. 
+
+Imagem: 
+![alt text](assets/image.png)
