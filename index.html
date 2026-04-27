@@ -2,9 +2,42 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>tela login</title>
+    <title>Tela login</title>
 </head>
+
 <body>
+
+    <header>
+        <nav>
+
+        </nav>
+    </header>
+
+    <main>
+        <div class="container">
+            <h2 id="titulo">Login</h2>
+            <form id="form-login">
+                <div id="c-email" class="conjunto">
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" placeholder="email" required>
+                </div>
+                <div id="c-senha" class="conjunto"> 
+                    <label for="senha">Senha:</label>
+                    <input type="password" id="senha" placeholder="senha" required>
+                </div>
+                <button id="botao-envio" type="submit">Entrar</button>
+            </form>
+            <div id="mensagem"></div>
+            <div class="toggle" id="toggle"></div>
+            <p>Não tem conta? Cadastre-se!</p>
+        </div>
+    </main>
+
+    <footer>
+
+    </footer>
+
+    <script src="scripts/script.js"></script>
     
 </body>
 </html>
