@@ -26,6 +26,6 @@ document.getElementById("form-login").onsubmit = (e) => {
         return;
     }
 
-    
+
     document.getElementById("form-login").reset();
 }
